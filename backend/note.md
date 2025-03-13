@@ -1,6 +1,5 @@
 we will be using ES6a
 
-
 For professional and meaningful GitHub commits, you should focus on logical milestones in your project where significant features, integrations, or fixes were completed. Below are the refined commit messages with appropriate timestamps:
 
 1. **Project Initialization** (`00:00 - 02:18`)
@@ -57,3 +56,12 @@ For professional and meaningful GitHub commits, you should focus on logical mile
     * Commit: `Add file tree management and update UI for better usability`
 
 These commit messages are concise, professional, and meaningful while aligning with standard Git practices. 🚀
+
+
+## How to kill running server?
+
+![1741840671452](image/note/1741840671452.png)
+
+![1741840685840](image/note/1741840685840.png)
+
+![1741840717061](image/note/1741840717061.png)
