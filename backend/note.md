@@ -15,7 +15,7 @@ For professional and meaningful GitHub commits, you should focus on logical mile
 6. **Redis Integration for Session Management** (`47:07 - 53:40`)
    * Commit: `Integrate Redis for session management and caching`
 7. **User Logout & Authentication Completion** (`53:40 - 01:02:39`)
-   * Commit: `Implement user logout and finalize authentication flow`
+   * Commit: `Implement user logout and finalize authentication flow `
 8. **React Setup & Routing Configuration** (`01:02:39 - 01:08:18`)
    * Commit: `Set up React project and configure React Router`
 9. **User Authentication UI (Login & Register)** (`01:08:18 - 01:27:21`)
@@ -33,7 +33,7 @@ For professional and meaningful GitHub commits, you should focus on logical mile
 15. **Socket.io Setup & Real-time Communication** (`04:02:38 - 04:20:17`)
     * Commit: `Integrate Socket.io for real-time messaging and authentication`
 16. **Secure Socket Authentication & User Authorization** (`04:20:17 - 04:48:05`)
-    * Commit: `Enhance project security with socket authentication and route protection`
+    * Commit: `Enhance profject security with socket authentication and route protection`
 17. **Refactor Messaging System & Improve UI Updates** (`04:48:05 - 05:13:17`)
     * Commit: `Refactor messaging system for improved handling and UI updates`
 18. **AI Service Integration & Prompt Engineering** (`05:13:17 - 05:31:55`)
@@ -57,7 +57,6 @@ For professional and meaningful GitHub commits, you should focus on logical mile
 
 These commit messages are concise, professional, and meaningful while aligning with standard Git practices. 🚀
 
-
 ## How to kill running server?
 
 ![1741840671452](image/note/1741840671452.png)
@@ -65,3 +64,16 @@ These commit messages are concise, professional, and meaningful while aligning w
 ![1741840685840](image/note/1741840685840.png)
 
 ![1741840717061](image/note/1741840717061.png)
+
+
+
+Redis stores data in memory/RAM unlike MongoDB
+
+install Redis insight
+
+> star mthd to explain project
+>
+> ```
+>
+>
+> ```
