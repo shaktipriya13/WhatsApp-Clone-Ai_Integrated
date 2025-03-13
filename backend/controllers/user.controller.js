@@ -33,6 +33,8 @@ export const loginUserController = async (req, res) => {
             return res.status(401).json('Invalid Credentials.');
         }
         const token = await user.generateJWT();
+
+        delete user._doc.password;
         res.status(200).json({ user, token });
     } catch (e) {
         res.status(500).send(e.message);
