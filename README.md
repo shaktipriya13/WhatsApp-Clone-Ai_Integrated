@@ -14,9 +14,8 @@ This project is a cutting-edge integration of WhatsApp with AI features, built u
 ### Group Chat
 ![Home Page](https://github.com/user-attachments/assets/ce92d188-aaa2-4620-9dca-8a9477513546)
 
-### Group Members
-![Home Page](https://github.com/user-attachments/assets/0f9d05e0-ce9b-419e-84ef-ad46cfa81416)
 
+<!--->
 
 ### GPT & DALL-E 3 Integration
 ![GPT & DALL-E 3](https://github.com/user-attachments/assets/0060f934-f4b5-4446-8101-0c52833cf500)
@@ -59,7 +58,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yashk9293/WhatsApp-Clone-Ai_Integrated
+   git clone https://github.com/shaktipriya13/WhatsApp-Clone-Ai_Integrated
 
 2. Navigate to the project directory:
    ```bash
